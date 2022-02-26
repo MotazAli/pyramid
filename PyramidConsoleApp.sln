@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyramidConsoleApp", "PyramidConsoleApp\PyramidConsoleApp.csproj", "{7D7E623E-6BCB-4A6B-A4D2-89B7089A7BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7E623E-6BCB-4A6B-A4D2-89B7089A7BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7E623E-6BCB-4A6B-A4D2-89B7089A7BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7E623E-6BCB-4A6B-A4D2-89B7089A7BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7E623E-6BCB-4A6B-A4D2-89B7089A7BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D594B9E8-8203-4A35-ACDE-F97F8F0A9CAA}
+	EndGlobalSection
+EndGlobal

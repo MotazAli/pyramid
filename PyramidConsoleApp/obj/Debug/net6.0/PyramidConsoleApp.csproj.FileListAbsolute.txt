@@ -1,0 +1,15 @@
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\bin\Debug\net6.0\PyramidConsoleApp.exe
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\bin\Debug\net6.0\PyramidConsoleApp.deps.json
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\bin\Debug\net6.0\PyramidConsoleApp.runtimeconfig.json
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\bin\Debug\net6.0\PyramidConsoleApp.dll
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\bin\Debug\net6.0\ref\PyramidConsoleApp.dll
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\bin\Debug\net6.0\PyramidConsoleApp.pdb
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\obj\Debug\net6.0\PyramidConsoleApp.csproj.AssemblyReference.cache
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\obj\Debug\net6.0\PyramidConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\obj\Debug\net6.0\PyramidConsoleApp.AssemblyInfoInputs.cache
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\obj\Debug\net6.0\PyramidConsoleApp.AssemblyInfo.cs
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\obj\Debug\net6.0\PyramidConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\obj\Debug\net6.0\PyramidConsoleApp.dll
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\obj\Debug\net6.0\ref\PyramidConsoleApp.dll
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\obj\Debug\net6.0\PyramidConsoleApp.pdb
+C:\Users\motaz\work\tasks\pyramid\PyramidConsoleApp\PyramidConsoleApp\obj\Debug\net6.0\PyramidConsoleApp.genruntimeconfig.cache
